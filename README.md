@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **Data Analyst and Scientist** positions
 
-- 👨‍💻 All of my projects are available [here](https://github.com/jervinseow)
+- 👨‍💻 All of my projects are available **below**
 
 - 📄 Know more about my experiences [here](https://drive.google.com/file/d/1R97aYEg-hIJ7Nm-iJ_eJJ9sFBcjkLayh/view?usp=sharing)
 
