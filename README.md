@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jervin</h1>
-<h3 align="center">An aspiring Data Analyst who is passionate about discovering and delivering data-driven solutions.</h3>
+<h3 align="center">A Data Engineer who is passionate about discovering and delivering data-driven solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jervinseow&label=Profile%20views&color=0e75b6&style=flat" alt="jervinseow" /> </p>
 
-- 🔭 I’m currently looking for **Data Analyst and Scientist** positions
+- 🔭 I’m currently looking for **Data Engineering** positions
 
 - 👨‍💻 All of my projects are available **below**
 
